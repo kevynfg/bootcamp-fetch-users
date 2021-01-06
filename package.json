@@ -1,0 +1,20 @@
+{
+  "name": "bootcamp-fetch-users",
+  "version": "1.0.0",
+  "description": "First project using public api to fetch random users, process input\r and show info about gender count and etc.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kevynfg/bootcamp-fetch-users.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kevynfg/bootcamp-fetch-users/issues"
+  },
+  "homepage": "https://github.com/kevynfg/bootcamp-fetch-users#readme"
+}
